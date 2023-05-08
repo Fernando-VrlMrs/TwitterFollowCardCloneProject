@@ -3,16 +3,12 @@
 ## 🖥️ Set Up
 
 1. Start development server
-   '''
-   npm install
-   '''
+   'npm install'
 
 ## 🖥️ Set Up
 
 1. Generate a full static production build
-   '''
-   npm run dev
-   '''
+   'npm run dev'
 
 ### :gear: Built with
 
