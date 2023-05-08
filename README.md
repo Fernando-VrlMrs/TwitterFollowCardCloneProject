@@ -3,14 +3,14 @@
 ## 🖥️ Set Up
 
 1. Start development server
-   '''sh
+   '''
    npm install
    '''
 
 ## 🖥️ Set Up
 
 1. Generate a full static production build
-   '''sh
+   '''
    npm run dev
    '''
 
